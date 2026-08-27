@@ -1,4 +1,4 @@
 ## Hi there 👋
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=KiinnDee&show_icons=true&theme=dark&count_private=true)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Sitka+Text&duration=3000&pause=1000&color=B936F7&center=true&width=435&lines=Think+different)](https://git.io/typing-svg)
 
