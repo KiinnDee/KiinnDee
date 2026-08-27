@@ -3,7 +3,7 @@
 ### 📈 GitHub Activity Graph:
 
 <!--   green snake -->
-![BEPb's github activity graph](https://raw.githubusercontent.com/BEPb/BEPb/output/github-contribution-grid-snake
+![KiinnDee's github activity graph](https://raw.githubusercontent.com/KiinnDee/KiinnDee/output/github-contribution-grid-snake
 
 <!--
 **KiinnDee/KiinnDee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
