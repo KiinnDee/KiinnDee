@@ -30,6 +30,8 @@
     <img alt="bilibili" title="bilibili" height="48" width="48" src="https://cdn.simpleicons.org/bilibili"></a>
   <a href="https://github.com/KiinnDee/KiinnDee">
     <img alt="xiaohongshu" title="xiaohongshu" height="48" width="48" src="https://cdn.simpleicons.org/xiaohongshu"></a>
+  <a href="https://github.com/KiinnDee/KiinnDee">
+    <img alt="tiktok" title="tiktok" height="48" width="48" src="https://cdn.simpleicons.org/tiktok"></a>
 </p>
 
 ### Profile Views
