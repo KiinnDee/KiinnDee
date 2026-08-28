@@ -29,6 +29,12 @@
   <a href="https://github.com/KiinnDee/KiinnDee">
     <img alt="c" title="c" height="48" width="48" src="https://cdn.simpleicons.org/c"></a>
   <a href="https://github.com/KiinnDee/KiinnDee">
+    <img alt="pytorch" title="pytorch" height="48" width="48" src="https://cdn.simpleicons.org/pytorch"></a>
+  <a href="https://github.com/KiinnDee/KiinnDee">
+    <img alt="jupyter" title="jupyter" height="48" width="48" src="https://cdn.simpleicons.org/jupyter"></a>
+  <a href="https://github.com/KiinnDee/KiinnDee">
+    <img alt="anaconda" title="anaconda" height="48" width="48" src="https://cdn.simpleicons.org/anaconda"></a>
+  <a href="https://github.com/KiinnDee/KiinnDee">
     <img alt="godotengine" title="godotengine" height="48" width="48" src="https://cdn.simpleicons.org/godotengine"></a>
   <a href="https://github.com/KiinnDee/KiinnDee">
     <img alt="unity" title="unity" height="48" width="48" src="https://cdn.simpleicons.org/unity"></a>
