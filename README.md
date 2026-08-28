@@ -19,6 +19,9 @@
     <img alt="gitee" title="gitee" height="48" width="48" src="https://cdn.simpleicons.org/gitee"></a>
   <a href="https://github.com/KiinnDee/KiinnDee">
     <img alt="Git" title="Git" height="48" width="48" src="https://cdn.simpleicons.org/Git"></a>
+</p>
+
+<p align="center">
   <a href="https://github.com/KiinnDee/KiinnDee">
     <img alt="Python" title="Python" height="48" width="48" src="https://cdn.simpleicons.org/Python"></a>
   <a href="https://github.com/KiinnDee/KiinnDee">
