@@ -42,6 +42,8 @@
     <img alt="unrealengine" title="unrealengine" height="48" width="48" src="https://cdn.simpleicons.org/unrealengine"></a>
   <a href="https://github.com/KiinnDee/KiinnDee">
     <img alt="ubuntu" title="ubuntu" height="48" width="48" src="https://cdn.simpleicons.org/ubuntu"></a>
+  <a href="https://github.com/KiinnDee/KiinnDee">
+    <img alt="trae" title="trae" height="48" width="48" src="https://cdn.simpleicons.org/trae"></a>
 </p>
 
 <p align="center">
