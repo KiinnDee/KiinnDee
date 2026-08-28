@@ -29,7 +29,7 @@
   <a href="https://github.com/KiinnDee/KiinnDee">
     <img alt="bilibili" title="bilibili" height="48" width="48" src="https://cdn.simpleicons.org/bilibili"></a>
   <a href="https://github.com/KiinnDee/KiinnDee">
-    <img alt="小红书" title="小红书" height="48" width="48" src="https://cdn.simpleicons.org/小红书"></a>
+    <img alt="xiaohongshu" title="xiaohongshu" height="48" width="48" src="https://cdn.simpleicons.org/xiaohongshu"></a>
 </p>
 
 ### Profile Views
