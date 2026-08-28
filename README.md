@@ -5,7 +5,7 @@
 ![](./src/header_.png)
 
 <h1 align="center">
-  <img src="https://raw.githubusercontent.com/KiinnDee/KiinnDee/assets/name.svg" alt="KiinnDee" />
+  <img src="https://raw.githubusercontent.com/KiinnDee/KiinnDee/master/assets/name.svg" alt="KiinnDee" />
 </h1>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Sitka+Text&duration=3000&pause=1000&color=B936F7&center=true&width=435&lines=Think+different)](https://git.io/typing-svg)
