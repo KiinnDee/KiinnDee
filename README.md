@@ -26,6 +26,8 @@
     <img alt="Python" title="Python" height="48" width="48" src="https://cdn.simpleicons.org/Python"></a>
   <a href="https://github.com/KiinnDee/KiinnDee">
     <img alt="markdown" title="markdown" height="48" width="48" src="https://cdn.simpleicons.org/markdown"></a>
+  <a href="https://github.com/KiinnDee/KiinnDee">
+    <img alt="c" title="c" height="48" width="48" src="https://cdn.simpleicons.org/c"></a>
 </p>
 
 <p align="center">
