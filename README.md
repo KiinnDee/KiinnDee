@@ -42,8 +42,6 @@
     <img alt="unrealengine" title="unrealengine" height="48" width="48" src="https://cdn.simpleicons.org/unrealengine"></a>
   <a href="https://github.com/KiinnDee/KiinnDee">
     <img alt="ubuntu" title="ubuntu" height="48" width="48" src="https://cdn.simpleicons.org/ubuntu"></a>
-  <a href="https://github.com/KiinnDee/KiinnDee">
-    <img alt="trae" title="trae" height="48" width="48" src="https://cdn.simpleicons.org/trae"></a>
 </p>
 
 <p align="center">
@@ -64,6 +62,8 @@
     <img alt="zhihu" title="zhihuk" height="48" width="48" src="https://cdn.simpleicons.org/zhihu"></a>
   <a href="https://github.com/KiinnDee/KiinnDee">
     <img alt="wechat" title="wechat" height="48" width="48" src="https://cdn.simpleicons.org/wechat"></a>
+  <a href="https://github.com/KiinnDee/KiinnDee">
+    <img alt="sinaweibo" title="sinaweibo" height="48" width="48" src="https://cdn.simpleicons.org/sinaweibo"></a>
 </p>
 
 ### Profile Views
