@@ -70,6 +70,11 @@
     <img alt="sinaweibo" title="sinaweibo" height="48" width="48" src="https://cdn.simpleicons.org/sinaweibo"></a>
 </p>
 
+<p align="center">
+  <a href="https://github.com/KiinnDee/KiinnDee">
+    <img alt="buymeacoffee" title="buymeacoffee" height="48" width="48" src="https://cdn.simpleicons.org/buymeacoffee"></a>
+</p>
+
 ### Profile Views
 counting of visitors to this page in this section started from August 26, 2026
 
