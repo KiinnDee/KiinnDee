@@ -58,6 +58,8 @@
     <img alt="tiktok" title="tiktok" height="48" width="48" src="https://cdn.simpleicons.org/tiktok"></a>
   <a href="https://github.com/KiinnDee/KiinnDee">
     <img alt="zhihu" title="zhihuk" height="48" width="48" src="https://cdn.simpleicons.org/zhihu"></a>
+  <a href="https://github.com/KiinnDee/KiinnDee">
+    <img alt="wechat" title="wechat" height="48" width="48" src="https://cdn.simpleicons.org/wechat"></a>
 </p>
 
 ### Profile Views
