@@ -32,6 +32,13 @@
 
 <p align="center">
   <a href="https://github.com/KiinnDee/KiinnDee">
+    <img alt="deepseek" title="deepseek" height="48" width="48" src="https://cdn.simpleicons.org/deepseek"></a>
+  <a href="https://github.com/KiinnDee/KiinnDee">
+    <img alt="kimi" title="kimi" height="48" width="48" src="https://cdn.simpleicons.org/kimi"></a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/KiinnDee/KiinnDee">
     <img alt="bilibili" title="bilibili" height="48" width="48" src="https://cdn.simpleicons.org/bilibili"></a>
   <a href="https://github.com/KiinnDee/KiinnDee">
     <img alt="xiaohongshu" title="xiaohongshu" height="48" width="48" src="https://cdn.simpleicons.org/xiaohongshu"></a>
