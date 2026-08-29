@@ -1,5 +1,6 @@
 <table align="center">
 
+  <!--头图-->
   <tbody>
     <tr>
       <td colspan="6">
@@ -16,6 +17,7 @@
      </tr>
   </tbody>
 
+  <!--两个统计-->
   <tbody>
     <tr>
       <td colspan="3"><a href="https://github-readme-stats-mirror.vercel.app/frontend/">
@@ -57,7 +59,7 @@
     </tr>
   </tbody>
 -->
-
+  <!--热力图贪吃蛇-->
   <tbody>
     <tr>
       <td colspan="6">
@@ -72,6 +74,7 @@
      </tr>
   </tbody>
 
+  <!--商标-->
   <tbody>
     <tr>
       <td colspan="6">
@@ -145,9 +148,13 @@
   <tbody>
     <tr>
       <td colspan="6">
+        <!--你是第几个访客-->
         <h1><p align="center"><code>Profile Views</code></p></h1>
         <h3><p align="center"><code>counting of visitors to this page in this section started from August 26, 2026</code></p></h3>
-        <p align="center"><img src="https://count.getloli.com/get/@KiinnDee.github.readme" alt="count"></p>
+        <p align="center"><img src="https://count.getloli.com/get/@KiinnDee.github.readme" alt="count">
+        <!--📏彩虹LINE-->
+        <p align="center"><img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%"></p>
+        <!--底部波浪-->
         <p align="center"><img src="assets/Bottom_down.svg" alt="Bottom_down"></p>
       </td>
     </tr>
