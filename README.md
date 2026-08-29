@@ -9,6 +9,22 @@
         alt="Typing SVG: Think different"
       >
     </p>
+    <tbody>
+      <tr>
+        <td colspan="3"><a href="https://github-readme-stats-mirror.vercel.app/frontend/">
+          <picture>
+            <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-mirror.vercel.app/api?username=KiinnDee&show_icons=true&theme=dark&hide_border=true&bg_color=00000000&number_format=long">
+            <img height="100%" src="https://github-readme-stats-mirror.vercel.app/api?username=KiinnDee&show_icons=true&hide_border=true&bg_color=00000000&number_format=long" />
+          </picture>
+        </a></td>
+        <td colspan="3"><a href="https://github-readme-streak-stats-mirror.vercel.app/demo/">
+          <picture>
+            <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats-mirror.vercel.app/?user=KiinnDee&mode=weekly&theme=dark&hide_border=true&background=00000000">
+            <img height="100%" src="https://github-readme-streak-stats-mirror.vercel.app/?user=KiinnDee&mode=weekly&hide_border=true&background=00000000" />
+          </picture>
+        </a></td>
+      </tr>
+    </tbody>
     <p align="center">
       <picture>
         <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KiinnDee/KiinnDee/output/github-contribution-grid-snake-dark.svg">
