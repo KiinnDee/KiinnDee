@@ -32,7 +32,8 @@
       </a></td>
     </tr>
   </tbody>
-
+  
+<!--
   <tbody>
     <tr>
       <td colspan="2"><a href="https://github-profile-summary-cards-mirror.vercel.app/demo.html">
@@ -55,6 +56,7 @@
       </a></td>
     </tr>
   </tbody>
+-->
 
   <tbody>
     <tr>
