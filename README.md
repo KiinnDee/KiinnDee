@@ -1,21 +1,20 @@
 <table align="center">
-
-  ## ![](assets/Bottom_up.svg)
-
-  <!--   my-header-img -->
-  ![](./src/header_.png)
-
-  <h1 align="center">
-    <img src="https://raw.githubusercontent.com/KiinnDee/KiinnDee/main/assets/name.svg" alt="I am KiinnDee" />
-  </h1>
-
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Sitka+Text&duration=3000&pause=1000&color=B936F7&center=true&width=435&lines=Think+different)](https://git.io/typing-svg)
-
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KiinnDee/KiinnDee/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/KiinnDee/KiinnDee/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/KiinnDee/KiinnDee/output/github-contribution-grid-snake.svg">
-  </picture>
+  <td colspan="6">
+    <p align="center">
+      <img src="https://raw.githubusercontent.com/KiinnDee/KiinnDee/main/assets/Bottom_up.svg" alt="Bottom up SVG"> 
+      <img src="https://raw.githubusercontent.com/KiinnDee/KiinnDee/main/src/header_.png" alt="Header image">
+      <img src="https://raw.githubusercontent.com/KiinnDee/KiinnDee/main/assets/name.svg" alt="I am KiinnDee" />
+      <img 
+        src="https://readme-typing-svg.demolab.com?font=Sitka+Text&duration=3000&pause=1000&color=B936F7&center=true&width=435&lines=Think+different" 
+        alt="Typing SVG: Think different"
+      />
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KiinnDee/KiinnDee/output/github-contribution-grid-snake-dark.svg">
+        <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/KiinnDee/KiinnDee/output/github-contribution-grid-snake.svg">
+        <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/KiinnDee/KiinnDee/output/github-contribution-grid-snake.svg">
+      </picture>
+    </p>
+  </td>
 
   <p align="center">
     <a href="https://github.com/KiinnDee/KiinnDee">
@@ -86,5 +85,5 @@
   ![](https://count.getloli.com/get/@KiinnDee.github.readme)
 
   ![](assets/Bottom_down.svg)
-  
+
 </table>
