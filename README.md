@@ -35,6 +35,29 @@
 
   <tbody>
     <tr>
+      <td colspan="2"><a href="https://github-profile-summary-cards-mirror.vercel.app/demo.html">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards-mirror.vercel.app/api/cards/repos-per-language?username=zetaloop&theme=nord_dark&border_color=0000&bg_color=0000">
+          <img height="100%" src="https://github-profile-summary-cards-mirror.vercel.app/api/cards/repos-per-language?username=zetaloop&theme=nord_bright&border_color=0000&bg_color=0000" />
+        </picture>
+      </a></td>
+      <td colspan="2"><a href="https://github-profile-summary-cards-mirror.vercel.app/demo.html">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards-mirror.vercel.app/api/cards/most-commit-language?username=zetaloop&theme=nord_dark&border_color=0000&bg_color=0000">
+          <img height="100%" src="https://github-profile-summary-cards-mirror.vercel.app/api/cards/most-commit-language?username=zetaloop&theme=nord_bright&border_color=0000&bg_color=0000" />
+        </picture>
+      </a></td>
+      <td colspan="2"><a href="https://github-profile-summary-cards-mirror.vercel.app/demo.html">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards-mirror.vercel.app/api/cards/productive-time?username=zetaloop&utcOffset=8&theme=nord_dark&border_color=0000&bg_color=0000">
+          <img height="100%" src="https://github-profile-summary-cards-mirror.vercel.app/api/cards/productive-time?username=zetaloop&utcOffset=8&theme=nord_bright&border_color=0000&bg_color=0000" />
+        </picture>
+      </a></td>
+    </tr>
+  </tbody>
+
+  <tbody>
+    <tr>
       <td colspan="6">
         <p align="center">
           <picture>
@@ -122,5 +145,5 @@
       </td>
     </tr>
   </tbody>
-  
+
 </table>
