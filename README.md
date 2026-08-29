@@ -109,7 +109,7 @@
           <a href="https://github.com/KiinnDee/KiinnDee">
             <img alt="linux" title="linux" height="48" width="48" src="https://cdn.simpleicons.org/linux"></a>
           <a href="https://github.com/KiinnDee/KiinnDee">
-            <img alt="html" title="html" height="48" width="48" src="https://cdn.simpleicons.org/html"></a>
+            <img alt="html5" title="html5" height="48" width="48" src="https://cdn.simpleicons.org/html5"></a>
           <!--
           <img src="https://skillicons.dev/icons?i=python,latex,markdown,c,pytorch,jupyter,html,anaconda,godotengine,unity,unrealengine,ubuntu,linux" alt="python,latex,markdown,c,pytorch,jupyter,html,anaconda,godot,unity,unrealengine,ubuntu,linux" /> 
           -->
