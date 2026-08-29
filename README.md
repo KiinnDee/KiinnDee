@@ -94,6 +94,12 @@
           <a href="https://github.com/KiinnDee/KiinnDee">
             <img alt="buymeacoffee" title="buymeacoffee" height="48" width="48" src="https://cdn.simpleicons.org/buymeacoffee"></a>
         </p>
+      </td>
+    </tr>
+  </tbody>
+  <tbody>
+    <tr>
+      <td colspan="6">
         <h1><p align="center"><code>Profile Views</code></p></h1>
         <h3><p align="center"><code>counting of visitors to this page in this section started from August 26, 2026</code></p></h3>
         <p align="center"><img src="https://count.getloli.com/get/@KiinnDee.github.readme" alt="count"></p>
