@@ -108,7 +108,9 @@
             <img alt="ubuntu" title="ubuntu" height="48" width="48" src="https://cdn.simpleicons.org/ubuntu"></a>
           <a href="https://github.com/KiinnDee/KiinnDee">
             <img alt="linux" title="linux" height="48" width="48" src="https://cdn.simpleicons.org/linux"></a>
-          <img src="https://skillicons.dev/icons?i=Python,markdown,c,pytorch,jupyter,html5,anaconda,godotengine,unity,unrealengine,ubuntu,linux" alt="Python,markdown,c,pytorch,jupyter,html5,anaconda,godotengine,unity,unrealengine,ubuntu,linux" /> 
+          <!--
+          <img src="https://skillicons.dev/icons?i=python,latex,markdown,c,pytorch,jupyter,html,anaconda,godotengine,unity,unrealengine,ubuntu,linux" alt="python,latex,markdown,c,pytorch,jupyter,html,anaconda,godot,unity,unrealengine,ubuntu,linux" /> 
+          -->
         </p>
         <p align="center">
           <a href="https://github.com/KiinnDee/KiinnDee">
