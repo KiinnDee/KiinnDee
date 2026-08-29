@@ -8,6 +8,8 @@
         src="https://readme-typing-svg.demolab.com?font=Sitka+Text&duration=3000&pause=1000&color=B936F7&center=true&width=435&lines=Think+different" 
         alt="Typing SVG: Think different"
       >
+    </p>
+    <p align="center">
       <picture>
         <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KiinnDee/KiinnDee/output/github-contribution-grid-snake-dark.svg">
         <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/KiinnDee/KiinnDee/output/github-contribution-grid-snake.svg">
@@ -78,9 +80,8 @@
         </p>
         <h1><p align="center"><code>Profile Views</code></p></h3>
         <h3><p align="center"><code>counting of visitors to this page in this section started from August 26, 2026</code></p></h3>
-        <p align="center">
-          <a href="https://count.getloli.com/get/@KiinnDee.github.readme">
-            <img src="assets/Bottom_down.svg" alt="Bottom_down"></a></p>
+        <p align="center"><img src="https://count.getloli.com/get/@KiinnDee.github.readme" alt="count"></p>
+        <p align="center"><img src="assets/Bottom_down.svg" alt="Bottom_down"></p>
       </td>
     </tr>
   </tbody>
