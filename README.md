@@ -7,7 +7,7 @@
 
 <p>
   <samp>
-    <a href="https://github.com/KiinnDee/KiinnDee">Github</a> ·
+    <a href="https://github.com/KiinnDee">Github</a> ·
   </samp>
 </p>
 
